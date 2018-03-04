@@ -1,0 +1,51 @@
+类名：manager
+用法：variable_name=manager()
+作用：与user_agent通信并调度扫描的类
+
+
+
+
+方法函数名：create_task()
+用法：      create_task("任务名")
+作用：创建任务
+
+
+
+方法函数名：config()
+用法：      config("任务名",scanlist,ipaddr)
+            scanlist:扫描类型列表，如["FTP.xml","Oracle.xml"]
+            ipaddr:目标ip地址，如"192.168.0.107"
+作用：配置任务参数
+
+
+
+方法函数名：task_start()
+用法：      task_start("任务名")
+作用：开始扫描任务，或者恢复之前中断的任务也可直接调用
+【该方法采用多线程，返回一个扫描任务的Thread类】
+
+
+
+方法函数名：get_status()
+用法：      get_status("任务名")
+作用：获取指定任务的状态
+
+
+
+方法函数名：parse_result()
+用法：      parse_result("任务名")
+作用：解析结果xml文件
+
+
+
+方法函数名：save_result_to_xml()
+用法：      save_result_to_xml("任务名"，path)
+作用：将指定任务的结果xml文件移动到特定的path下
+
+
+
+
+
+
+
+

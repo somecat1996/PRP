@@ -1,0 +1,2671 @@
+    <get_results_response status_text="OK" status="200">
+      <result id="2e7c1733-66ef-429d-a6f6-f8c8b09bc7ca">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T13:19:42Z</creation_time>
+        <modification_time>2017-04-23T13:19:42Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="375be5d9-bba9-4b72-bf69-2f832c34090a">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T14:53:51Z</creation_time>
+        <modification_time>2017-04-23T14:53:51Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="4365e9e4-5647-461d-85e9-45078c223047">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T14:57:05Z</creation_time>
+        <modification_time>2017-04-23T14:57:05Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="f5506d60-4f46-4bea-b5f1-78a7117e0c12">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T14:59:31Z</creation_time>
+        <modification_time>2017-04-23T14:59:31Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="3835dec6-c2dc-49e3-9d6c-a12ab4d5ef0c">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:13:14Z</creation_time>
+        <modification_time>2017-04-23T15:13:14Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="3babdefc-e542-4cdd-a71c-6323c0e5d154">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:16:00Z</creation_time>
+        <modification_time>2017-04-23T15:16:00Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="97be4fcc-e6fe-4f0f-8583-363031022bfe">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:18:55Z</creation_time>
+        <modification_time>2017-04-23T15:18:55Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="c0ef31be-06f5-47f0-9835-1d6813b16367">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:19:50Z</creation_time>
+        <modification_time>2017-04-23T15:19:50Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="eba56625-2dbb-4113-a386-7b5e810d8214">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:20:20Z</creation_time>
+        <modification_time>2017-04-23T15:20:20Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="c81e135b-68bb-4f41-b9f8-68347a21ef97">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:28:15Z</creation_time>
+        <modification_time>2017-04-23T15:28:15Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="008994dd-15bb-4bd6-949f-48b3bf14bf43">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:30:07Z</creation_time>
+        <modification_time>2017-04-23T15:30:07Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="a041214d-6813-467a-9cbf-5b94a520d3a9">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:34:00Z</creation_time>
+        <modification_time>2017-04-23T15:34:00Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="0d0f5743-2b24-4d83-a1bd-b90b12968f8b">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-23T15:58:26Z</creation_time>
+        <modification_time>2017-04-23T15:58:26Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="fe23f3e8-1738-4b1e-ac31-59f521ede9a3">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T03:48:57Z</creation_time>
+        <modification_time>2017-04-24T03:48:57Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="09bde3e0-29f8-4d41-b3d0-1b4cd0204589">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T07:56:28Z</creation_time>
+        <modification_time>2017-04-24T07:56:28Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="247b6588-fa69-4eed-928d-7fcdbb536cf5">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T08:36:15Z</creation_time>
+        <modification_time>2017-04-24T08:36:15Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="169e7eb8-b84f-4f1e-abf8-76e13934e7e1">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T08:59:46Z</creation_time>
+        <modification_time>2017-04-24T08:59:46Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="ce58aef9-b267-4ece-a738-734c57a38acd">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T12:37:02Z</creation_time>
+        <modification_time>2017-04-24T12:37:02Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="7ff70a0f-47a6-49b7-972d-292b22473bcc">
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-24T12:44:54Z</creation_time>
+        <modification_time>2017-04-24T12:44:54Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host></host>
+        <port></port>
+        <nvt oid="">
+          <name></name>
+          <family></family>
+          <cvss_base></cvss_base>
+          <cve></cve>
+          <bid></bid>
+          <xref></xref>
+          <tags></tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version></scan_nvt_version>
+        <threat>Error</threat>
+        <severity>-3.0</severity>
+        <qod>
+          <value>75</value>
+          <type></type>
+        </qod>
+        <description>WARNING: Cannot connect to KB at &apos;/var/lib/redis/redis.sock&apos;: Connection refused&apos;</description>
+      </result>
+      <result id="48eb22bf-012a-4643-b778-aa7b42e8ea29">
+        <name>CPE Inventory</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-11T15:32:17Z</creation_time>
+        <modification_time>2017-03-11T15:32:17Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/CPE-T</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.810002">
+          <name>CPE Inventory</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine uses information collected by other routines about
+  CPE identities (http://cpe.mitre.org/) of operating systems, services and
+  applications detected during the scan.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4482 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>10.10.10.130|cpe:/o:linux:kernel</description>
+      </result>
+      <result id="32d74a1a-f6e8-4ac8-811f-5d80538d6acc">
+        <name>CPE Inventory</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:55Z</creation_time>
+        <modification_time>2017-03-12T02:25:55Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/CPE-T</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.810002">
+          <name>CPE Inventory</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine uses information collected by other routines about
+  CPE identities (http://cpe.mitre.org/) of operating systems, services and
+  applications detected during the scan.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4482 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>10.10.10.130|cpe:/a:openvas:openvas_manager
+10.10.10.130|cpe:/o:linux:linux_kernel:4</description>
+      </result>
+      <result id="96d90557-e0e5-43d2-b482-1af71a3b49e3">
+        <name>CPE Inventory</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:59Z</creation_time>
+        <modification_time>2017-03-12T02:32:59Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>general/CPE-T</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.810002">
+          <name>CPE Inventory</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine uses information collected by other routines about
+  CPE identities (http://cpe.mitre.org/) of operating systems, services and
+  applications detected during the scan.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4482 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>127.0.0.1|cpe:/a:openvas:openvas_manager
+127.0.0.1|cpe:/o:linux:linux_kernel:4</description>
+      </result>
+      <result id="e61cd771-a63f-445b-99c0-e4d7fa5a195b">
+        <name>CPE Inventory</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:33Z</creation_time>
+        <modification_time>2017-04-17T14:18:33Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/CPE-T</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.810002">
+          <name>CPE Inventory</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine uses information collected by other routines about
+  CPE identities (http://cpe.mitre.org/) of operating systems, services and
+  applications detected during the scan.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4482 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>10.10.10.130|cpe:/a:openvas:openvas_manager
+10.10.10.130|cpe:/o:linux:linux_kernel:4</description>
+      </result>
+      <result id="9dc6b508-67be-458f-aa95-2adc23d56f9e">
+        <name>CPE Inventory</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:19Z</creation_time>
+        <modification_time>2017-04-17T15:24:19Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/CPE-T</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.810002">
+          <name>CPE Inventory</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine uses information collected by other routines about
+  CPE identities (http://cpe.mitre.org/) of operating systems, services and
+  applications detected during the scan.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4482 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>10.10.10.130|cpe:/a:openvas:openvas_manager
+10.10.10.130|cpe:/o:linux:linux_kernel:4</description>
+      </result>
+      <result id="4b35a60a-d91d-44ba-a7ec-317f33dc3bf1">
+        <name>Identify Unknown Services with nmap</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:26:23Z</creation_time>
+        <modification_time>2017-03-12T02:26:23Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.66286">
+          <name>Identify Unknown Services with nmap</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This plugin performs service detection by launching nmap&apos;s
+  service probe (nmap -sV) against ports that are running unidentified services.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5296 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Nmap service detection result for this port: ssl|otp
+This is a guess. A confident identification of the service was not possible.</description>
+      </result>
+      <result id="3a9a9d8b-e0b0-4a9d-ac1d-cc1614564593">
+        <name>Identify Unknown Services with nmap</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:58Z</creation_time>
+        <modification_time>2017-04-17T15:24:58Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.66286">
+          <name>Identify Unknown Services with nmap</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This plugin performs service detection by launching nmap&apos;s
+  service probe (nmap -sV) against ports that are running unidentified services.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5296 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Nmap service detection result for this port: ssl|otp
+This is a guess. A confident identification of the service was not possible.</description>
+      </result>
+      <result id="9fa2566c-3b7d-4e4e-b0ba-1d05d561a174">
+        <name>OpenVAS Manager Detection</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:42Z</creation_time>
+        <modification_time>2017-03-12T02:25:42Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103825">
+          <name>OpenVAS Manager Detection</name>
+          <family>Product detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=The script sends a connection request to the server and attempts to
+ determine if it is a OpenVAS Manager|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4034 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Detected OpenVAS Manager
+Version: unknown
+Location: 9390/tcp
+CPE: cpe:/a:openvas:openvas_manager
+OpenVAS Manager is speaking OMP version 6.0</description>
+      </result>
+      <result id="df44c4cd-512e-491e-a62b-74349981511a">
+        <name>OpenVAS Manager Detection</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:45Z</creation_time>
+        <modification_time>2017-03-12T02:32:45Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103825">
+          <name>OpenVAS Manager Detection</name>
+          <family>Product detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=The script sends a connection request to the server and attempts to
+ determine if it is a OpenVAS Manager|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4034 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Detected OpenVAS Manager
+Version: unknown
+Location: 9390/tcp
+CPE: cpe:/a:openvas:openvas_manager
+OpenVAS Manager is speaking OMP version 6.0</description>
+      </result>
+      <result id="7269ba9c-8870-4f55-99f5-50ea0ee0f7ac">
+        <name>OpenVAS Manager Detection</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:13Z</creation_time>
+        <modification_time>2017-04-17T14:18:13Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103825">
+          <name>OpenVAS Manager Detection</name>
+          <family>Product detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=The script sends a connection request to the server and attempts to
+ determine if it is a OpenVAS Manager|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4034 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Detected OpenVAS Manager
+
+Version:  unknown
+Location: 9390/tcp
+CPE:      cpe:/a:openvas:openvas_manager
+OpenVAS Manager is speaking OMP version 6.0</description>
+      </result>
+      <result id="cabe4663-0c0a-411c-8e11-8fc632290f8e">
+        <name>OpenVAS Manager Detection</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:04Z</creation_time>
+        <modification_time>2017-04-17T15:24:04Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103825">
+          <name>OpenVAS Manager Detection</name>
+          <family>Product detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=The script sends a connection request to the server and attempts to
+ determine if it is a OpenVAS Manager|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4034 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Detected OpenVAS Manager
+
+Version:  unknown
+Location: 9390/tcp
+CPE:      cpe:/a:openvas:openvas_manager
+OpenVAS Manager is speaking OMP version 6.0</description>
+      </result>
+      <result id="b3aa9a30-975c-4335-a967-258719b1a2b4">
+        <name>OS Detection Consolidation and Reporting</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-11T15:32:16Z</creation_time>
+        <modification_time>2017-03-11T15:32:16Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105937">
+          <name>OS Detection Consolidation and Reporting</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script consolidates the OS information detected by several NVTs and tries to find the best matching OS.
+
+  Furthermore it reports all previously collected information leading to this best matching OS. It also reports possible additional informations
+  which might help to improve the OS detection.
+
+  If any of this information is wrong or could be improved please consider to report these to openvas-plugins@wald.intevation.org.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5130 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Best matching OS:
+
+OS: Linux Kernel
+CPE: cpe:/o:linux:kernel
+Found by NVT: 1.3.6.1.4.1.25623.1.0.102002 (ICMP based OS Fingerprinting)
+Concluded from ICMP based OS fingerprint:
+(100% confidence)
+
+Linux Kernel
+Setting key &quot;Host/runs_unixoide&quot; based on this information</description>
+      </result>
+      <result id="1dd896b0-3d28-4f80-a202-27ae8c3ac344">
+        <name>OS Detection Consolidation and Reporting</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:54Z</creation_time>
+        <modification_time>2017-03-12T02:25:54Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105937">
+          <name>OS Detection Consolidation and Reporting</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script consolidates the OS information detected by several NVTs and tries to find the best matching OS.
+
+  Furthermore it reports all previously collected information leading to this best matching OS. It also reports possible additional informations
+  which might help to improve the OS detection.
+
+  If any of this information is wrong or could be improved please consider to report these to openvas-plugins@wald.intevation.org.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5130 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Best matching OS:
+
+OS: Linux 3.8 - 4.6
+CPE: cpe:/o:linux:linux_kernel:4
+Found by NVT: 1.3.6.1.4.1.25623.1.0.108021 (Nmap OS Identification (NASL wrapper))
+Concluded from Nmap TCP/IP fingerprinting:
+OS details: Linux 3.8 - 4.6
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Setting key &quot;Host/runs_unixoide&quot; based on this information
+
+Other OS detections (in order of reliability):
+
+OS: Linux Kernel
+CPE: cpe:/o:linux:kernel
+Found by NVT: 1.3.6.1.4.1.25623.1.0.102002 (ICMP based OS Fingerprinting)
+Concluded from ICMP based OS fingerprint:
+(84% confidence)
+
+Linux Kernel</description>
+      </result>
+      <result id="cdf4be3f-876d-45cf-81cd-05404bffef78">
+        <name>OS Detection Consolidation and Reporting</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:44Z</creation_time>
+        <modification_time>2017-03-12T02:32:44Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105937">
+          <name>OS Detection Consolidation and Reporting</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script consolidates the OS information detected by several NVTs and tries to find the best matching OS.
+
+  Furthermore it reports all previously collected information leading to this best matching OS. It also reports possible additional informations
+  which might help to improve the OS detection.
+
+  If any of this information is wrong or could be improved please consider to report these to openvas-plugins@wald.intevation.org.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5130 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Best matching OS:
+
+OS: Linux 3.8 - 4.6
+CPE: cpe:/o:linux:linux_kernel:4
+Found by NVT: 1.3.6.1.4.1.25623.1.0.108021 (Nmap OS Identification (NASL wrapper))
+Concluded from Nmap TCP/IP fingerprinting:
+OS details: Linux 3.8 - 4.6
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Setting key &quot;Host/runs_unixoide&quot; based on this information
+
+Other OS detections (in order of reliability):
+
+OS: HP JetDirect
+CPE: cpe:/h:hp:jetdirect
+Found by NVT: 1.3.6.1.4.1.25623.1.0.102002 (ICMP based OS Fingerprinting)
+Concluded from ICMP based OS fingerprint:
+(73% confidence)
+
+HP JetDirect</description>
+      </result>
+      <result id="a33caa10-56d3-447e-97f1-c3c3f24bc572">
+        <name>OS Detection Consolidation and Reporting</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:33Z</creation_time>
+        <modification_time>2017-04-17T14:18:33Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105937">
+          <name>OS Detection Consolidation and Reporting</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script consolidates the OS information detected by several NVTs and tries to find the best matching OS.
+
+  Furthermore it reports all previously collected information leading to this best matching OS. It also reports possible additional informations
+  which might help to improve the OS detection.
+
+  If any of this information is wrong or could be improved please consider to report these to openvas-plugins@wald.intevation.org.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5130 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Best matching OS:
+
+OS: Linux 3.8 - 4.6
+CPE: cpe:/o:linux:linux_kernel:4
+Found by NVT: 1.3.6.1.4.1.25623.1.0.108021 (Nmap OS Identification (NASL wrapper))
+Concluded from Nmap TCP/IP fingerprinting:
+OS details: Linux 3.8 - 4.6
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Setting key &quot;Host/runs_unixoide&quot; based on this information
+
+Other OS detections (in order of reliability):
+
+OS: Linux Kernel
+CPE: cpe:/o:linux:kernel
+Found by NVT: 1.3.6.1.4.1.25623.1.0.102002 (ICMP based OS Fingerprinting)
+Concluded from ICMP based OS fingerprint:
+(84% confidence)
+
+Linux Kernel</description>
+      </result>
+      <result id="96cb38a9-088d-4a23-8aa6-0430c0f69628">
+        <name>OS Detection Consolidation and Reporting</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:17Z</creation_time>
+        <modification_time>2017-04-17T15:24:17Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105937">
+          <name>OS Detection Consolidation and Reporting</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script consolidates the OS information detected by several NVTs and tries to find the best matching OS.
+
+  Furthermore it reports all previously collected information leading to this best matching OS. It also reports possible additional informations
+  which might help to improve the OS detection.
+
+  If any of this information is wrong or could be improved please consider to report these to openvas-plugins@wald.intevation.org.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5130 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Best matching OS:
+
+OS: Linux 3.8 - 4.6
+CPE: cpe:/o:linux:linux_kernel:4
+Found by NVT: 1.3.6.1.4.1.25623.1.0.108021 (Nmap OS Identification (NASL wrapper))
+Concluded from Nmap TCP/IP fingerprinting:
+OS details: Linux 3.8 - 4.6
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Setting key &quot;Host/runs_unixoide&quot; based on this information
+
+Other OS detections (in order of reliability):
+
+OS: Linux Kernel
+CPE: cpe:/o:linux:kernel
+Found by NVT: 1.3.6.1.4.1.25623.1.0.102002 (ICMP based OS Fingerprinting)
+Concluded from ICMP based OS fingerprint:
+(92% confidence)
+
+Linux Kernel</description>
+      </result>
+      <result id="97ba241c-faa5-4918-a8fc-8ade00f25aa8">
+        <name>Services</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:24:54Z</creation_time>
+        <modification_time>2017-03-12T02:24:54Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.10330">
+          <name>Services</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine attempts to guess which service is running on the
+  remote ports. For instance, it searches for a web server which could listen on another port than
+  80 or 443 and makes this information available for other check routines.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5180 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>A TLScustom server answered on this port</description>
+      </result>
+      <result id="25f10fd4-f43b-4aa8-9940-52e62616ef17">
+        <name>Services</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:06Z</creation_time>
+        <modification_time>2017-03-12T02:32:06Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>80/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.10330">
+          <name>Services</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine attempts to guess which service is running on the
+  remote ports. For instance, it searches for a web server which could listen on another port than
+  80 or 443 and makes this information available for other check routines.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5180 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>A web server is running on this port</description>
+      </result>
+      <result id="98fa67cf-44c3-4471-88d2-65056a40e5e3">
+        <name>Services</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:15Z</creation_time>
+        <modification_time>2017-03-12T02:32:15Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.10330">
+          <name>Services</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine attempts to guess which service is running on the
+  remote ports. For instance, it searches for a web server which could listen on another port than
+  80 or 443 and makes this information available for other check routines.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5180 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>A TLScustom server answered on this port</description>
+      </result>
+      <result id="90584c94-e506-47a5-87df-88e7ac13eb32">
+        <name>Services</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:01Z</creation_time>
+        <modification_time>2017-04-17T14:18:01Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.10330">
+          <name>Services</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine attempts to guess which service is running on the
+  remote ports. For instance, it searches for a web server which could listen on another port than
+  80 or 443 and makes this information available for other check routines.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5180 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>A TLScustom server answered on this port</description>
+      </result>
+      <result id="60390f5a-6772-4522-a558-4a170c7a8657">
+        <name>Services</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:23:43Z</creation_time>
+        <modification_time>2017-04-17T15:23:43Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.10330">
+          <name>Services</name>
+          <family>Service detection</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine attempts to guess which service is running on the
+  remote ports. For instance, it searches for a web server which could listen on another port than
+  80 or 443 and makes this information available for other check routines.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5180 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>A TLScustom server answered on this port</description>
+      </result>
+      <result id="7435d967-31b3-4b70-8930-b5fd028c78f7">
+        <name>SSL/TLS: Collect and Report Certificate Details</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:54Z</creation_time>
+        <modification_time>2017-03-12T02:25:54Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103692">
+          <name>SSL/TLS: Collect and Report Certificate Details</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script collects and reports the details of all SSL/TLS certificates.
+
+  This data will be used by other tests to verify server certificates.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4768 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>The following certificate details of the remote service were collected.
+
+Certificate details:
+subject ...: 1.2.840.113549.1.9.1=#6F70656E7661737364406B616C69,CN=kali,OU=Server certificate for kali,O=OpenVAS Users United,L=Berlin,C=CN
+subject alternative names (SAN):
+None
+issued by .: 1.2.840.113549.1.9.1=#6361406B616C69,CN=kali,OU=Certification Authority for kali,O=OpenVAS Users United,L=Berlin,C=CN
+serial ....: 01
+valid from : 2017-03-11 00:39:22 UTC
+valid until: 2018-03-11 00:39:22 UTC
+fingerprint (SHA-1): 14F8B5E61A67326A02CC26860E562DFEC5CE389C
+fingerprint (SHA-256): 85E3DFF81DD164C9E97FD6E8418E0A7642E0D37C364BB961441B974BE0DD66A7</description>
+      </result>
+      <result id="11722a7f-b743-40b1-b104-b071d46f69fa">
+        <name>SSL/TLS: Collect and Report Certificate Details</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:16Z</creation_time>
+        <modification_time>2017-04-17T15:24:16Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103692">
+          <name>SSL/TLS: Collect and Report Certificate Details</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This script collects and reports the details of all SSL/TLS certificates.
+
+  This data will be used by other tests to verify server certificates.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4768 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>The following certificate details of the remote service were collected.
+
+Certificate details:
+subject ...: 1.2.840.113549.1.9.1=#6F70656E7661737364406B616C69,CN=kali,OU=Server certificate for kali,O=OpenVAS Users United,L=Berlin,C=CN
+subject alternative names (SAN):
+None
+issued by .: 1.2.840.113549.1.9.1=#6361406B616C69,CN=kali,OU=Certification Authority for kali,O=OpenVAS Users United,L=Berlin,C=CN
+serial ....: 01
+valid from : 2017-03-11 00:39:22 UTC
+valid until: 2018-03-11 00:39:22 UTC
+fingerprint (SHA-1): 14F8B5E61A67326A02CC26860E562DFEC5CE389C
+fingerprint (SHA-256): 85E3DFF81DD164C9E97FD6E8418E0A7642E0D37C364BB961441B974BE0DD66A7</description>
+      </result>
+      <result id="6b77bce0-92ac-470a-aec2-5fc956976792">
+        <name>SSL/TLS: Report Medium Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:51Z</creation_time>
+        <modification_time>2017-03-12T02:25:51Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.902816">
+          <name>SSL/TLS: Report Medium Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Medium SSL/TLS cipher suites accepted by a service.|insight=Any cipher suite considered to be secure for only the next 10 years is considered as medium|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4743 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="37ff713b-35aa-4d95-991a-40cc18d41d4d">
+        <name>SSL/TLS: Report Medium Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:47Z</creation_time>
+        <modification_time>2017-03-12T02:32:47Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.902816">
+          <name>SSL/TLS: Report Medium Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Medium SSL/TLS cipher suites accepted by a service.|insight=Any cipher suite considered to be secure for only the next 10 years is considered as medium|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4743 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="e952265d-d5a2-4e37-87ae-1d46f1397c06">
+        <name>SSL/TLS: Report Medium Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:18Z</creation_time>
+        <modification_time>2017-04-17T14:18:18Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.902816">
+          <name>SSL/TLS: Report Medium Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Medium SSL/TLS cipher suites accepted by a service.|insight=Any cipher suite considered to be secure for only the next 10 years is considered as medium|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4743 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="a8b2a754-3431-4c43-b11a-0d2b0889dec1">
+        <name>SSL/TLS: Report Medium Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:05Z</creation_time>
+        <modification_time>2017-04-17T15:24:05Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.902816">
+          <name>SSL/TLS: Report Medium Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Medium SSL/TLS cipher suites accepted by a service.|insight=Any cipher suite considered to be secure for only the next 10 years is considered as medium|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4743 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="df55466e-da69-4c62-a6c4-c5ace158956f">
+        <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:53Z</creation_time>
+        <modification_time>2017-03-12T02:25:53Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103441">
+          <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Non Weak SSL/TLS cipher suites accepted by a service.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4736 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="5e1914cc-8461-4a97-89f0-8bda2de893e7">
+        <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:48Z</creation_time>
+        <modification_time>2017-03-12T02:32:48Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103441">
+          <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Non Weak SSL/TLS cipher suites accepted by a service.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4736 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="679a4707-80a8-4d20-9c95-358258bf7bc6">
+        <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:18Z</creation_time>
+        <modification_time>2017-04-17T14:18:18Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103441">
+          <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Non Weak SSL/TLS cipher suites accepted by a service.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4736 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="74e329e8-cfff-4f01-a4dd-96ac382b1668">
+        <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:07Z</creation_time>
+        <modification_time>2017-04-17T15:24:07Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.103441">
+          <name>SSL/TLS: Report Non Weak Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all Non Weak SSL/TLS cipher suites accepted by a service.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4736 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+&apos;Non Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384</description>
+      </result>
+      <result id="abeeb7a2-77eb-4ca3-bbda-c0c1a0f2ad61">
+        <name>SSL/TLS: Report Perfect Forward Secrecy (PFS) Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:28Z</creation_time>
+        <modification_time>2017-03-12T02:25:28Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105018">
+          <name>SSL/TLS: Report Perfect Forward Secrecy (PFS) Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all SSL/TLS cipher suites accepted by a service which are supporting Perfect Forward Secrecy (PFS).|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4771 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+
+Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+
+Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256</description>
+      </result>
+      <result id="a02340cd-891e-460c-9688-e57d892f6cd1">
+        <name>SSL/TLS: Report Perfect Forward Secrecy (PFS) Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:04Z</creation_time>
+        <modification_time>2017-04-17T15:24:04Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.105018">
+          <name>SSL/TLS: Report Perfect Forward Secrecy (PFS) Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all SSL/TLS cipher suites accepted by a service which are supporting Perfect Forward Secrecy (PFS).|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4771 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+
+Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+
+Cipher suites supporting Perfect Forward Secrecy (PFS) are accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256</description>
+      </result>
+      <result id="f7d998b4-229f-4159-843d-c0ee15f2b3b8">
+        <name>SSL/TLS: Report Supported Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:25:46Z</creation_time>
+        <modification_time>2017-03-12T02:25:46Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.802067">
+          <name>SSL/TLS: Report Supported Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all SSL/TLS cipher suites accepted by a service.
+
+  As the NVT &apos;SSL/TLS: Check Supported Cipher Suites&apos; (OID: 1.3.6.1.4.1.25623.1.0.900234) might run into a
+  timeout the actual reporting of all accepted cipher suites takes place in this NVT instead. The script preference &apos;Report timeout&apos;
+  allows you to configure if such an timeout is reported.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4739 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>No &apos;Strong&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+No &apos;Strong&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+&apos;Strong&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.2 protocol.</description>
+      </result>
+      <result id="984c0b25-424a-4ed4-a929-408983bd94d9">
+        <name>SSL/TLS: Report Supported Cipher Suites</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:24:04Z</creation_time>
+        <modification_time>2017-04-17T15:24:04Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>9390/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.802067">
+          <name>SSL/TLS: Report Supported Cipher Suites</name>
+          <family>SSL and TLS</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|summary=This routine reports all SSL/TLS cipher suites accepted by a service.
+
+  As the NVT &apos;SSL/TLS: Check Supported Cipher Suites&apos; (OID: 1.3.6.1.4.1.25623.1.0.900234) might run into a
+  timeout the actual reporting of all accepted cipher suites takes place in this NVT instead. The script preference &apos;Report timeout&apos;
+  allows you to configure if such an timeout is reported.|qod_type=remote_app</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 4739 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>98</value>
+          <type>remote_app</type>
+        </qod>
+        <description>No &apos;Strong&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.0 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.0 protocol.
+
+No &apos;Strong&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.1 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.1 protocol.
+
+&apos;Strong&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256
+
+&apos;Medium&apos; cipher suites accepted by this service via the TLSv1.2 protocol:
+
+TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA
+TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_CBC_SHA384
+TLS_ECDHE_RSA_WITH_CAMELLIA_256_GCM_SHA384
+TLS_RSA_WITH_3DES_EDE_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA
+TLS_RSA_WITH_AES_128_CBC_SHA256
+TLS_RSA_WITH_AES_128_CCM
+TLS_RSA_WITH_AES_128_GCM_SHA256
+TLS_RSA_WITH_AES_256_CBC_SHA
+TLS_RSA_WITH_AES_256_CBC_SHA256
+TLS_RSA_WITH_AES_256_CCM
+TLS_RSA_WITH_AES_256_GCM_SHA384
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_128_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_128_GCM_SHA256
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA
+TLS_RSA_WITH_CAMELLIA_256_CBC_SHA256
+TLS_RSA_WITH_CAMELLIA_256_GCM_SHA384
+
+No &apos;Weak&apos; cipher suites accepted by this service via the TLSv1.2 protocol.
+
+No &apos;Null&apos; cipher suites accepted by this service via the TLSv1.2 protocol.</description>
+      </result>
+      <result id="2b7ffa09-54f9-48d8-893b-1edf502527bc">
+        <name>Traceroute</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:24:57Z</creation_time>
+        <modification_time>2017-03-12T02:24:57Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.51662">
+          <name>Traceroute</name>
+          <family>General</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|solution=Block unwanted packets from escaping your network.|summary=A traceroute from the scanning server to the target system was
+  conducted. This traceroute is provided primarily for informational
+  value only. In the vast majority of cases, it does not represent a
+  vulnerability. However, if the displayed traceroute contains any
+  private addresses that should not have been publicly visible, then you
+  have an issue you need to correct.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5309 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Here is the route from 10.10.10.130 to 10.10.10.130:
+
+10.10.10.130</description>
+      </result>
+      <result id="4c63a535-9bda-48e3-becc-4b27685af264">
+        <name>Traceroute</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-03-12T02:32:20Z</creation_time>
+        <modification_time>2017-03-12T02:32:20Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>127.0.0.1</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.51662">
+          <name>Traceroute</name>
+          <family>General</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|solution=Block unwanted packets from escaping your network.|summary=A traceroute from the scanning server to the target system was
+  conducted. This traceroute is provided primarily for informational
+  value only. In the vast majority of cases, it does not represent a
+  vulnerability. However, if the displayed traceroute contains any
+  private addresses that should not have been publicly visible, then you
+  have an issue you need to correct.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5309 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Here is the route from 127.0.0.1 to 127.0.0.1:
+
+127.0.0.1</description>
+      </result>
+      <result id="2614c203-3cab-4bde-b38d-29b5177b0997">
+        <name>Traceroute</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T14:18:01Z</creation_time>
+        <modification_time>2017-04-17T14:18:01Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.51662">
+          <name>Traceroute</name>
+          <family>General</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|solution=Block unwanted packets from escaping your network.|summary=A traceroute from the scanning server to the target system was
+  conducted. This traceroute is provided primarily for informational
+  value only. In the vast majority of cases, it does not represent a
+  vulnerability. However, if the displayed traceroute contains any
+  private addresses that should not have been publicly visible, then you
+  have an issue you need to correct.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5309 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Here is the route from 10.10.10.130 to 10.10.10.130:
+
+10.10.10.130</description>
+      </result>
+      <result id="d2ac3ac2-e27d-49ef-9969-483710e6d52b">
+        <name>Traceroute</name>
+        <owner>
+          <name>admin</name>
+        </owner>
+        <comment></comment>
+        <creation_time>2017-04-17T15:23:44Z</creation_time>
+        <modification_time>2017-04-17T15:23:44Z</modification_time>
+        <user_tags>
+          <count>0</count>
+        </user_tags>
+        <host>10.10.10.130</host>
+        <port>general/tcp</port>
+        <nvt oid="1.3.6.1.4.1.25623.1.0.51662">
+          <name>Traceroute</name>
+          <family>General</family>
+          <cvss_base>0.0</cvss_base>
+          <cve>NOCVE</cve>
+          <bid>NOBID</bid>
+          <xref>NOXREF</xref>
+          <tags>cvss_base_vector=AV:N/AC:L/Au:N/C:N/I:N/A:N|solution=Block unwanted packets from escaping your network.|summary=A traceroute from the scanning server to the target system was
+  conducted. This traceroute is provided primarily for informational
+  value only. In the vast majority of cases, it does not represent a
+  vulnerability. However, if the displayed traceroute contains any
+  private addresses that should not have been publicly visible, then you
+  have an issue you need to correct.|qod_type=remote_banner</tags>
+          <cert></cert>
+        </nvt>
+        <scan_nvt_version>$Revision: 5309 $</scan_nvt_version>
+        <threat>Log</threat>
+        <severity>0.0</severity>
+        <qod>
+          <value>80</value>
+          <type>remote_banner</type>
+        </qod>
+        <description>Here is the route from 10.10.10.130 to 10.10.10.130:
+
+10.10.10.130</description>
+      </result>
+      <filters id="">
+        <term>first=1 rows=-1 sort=name</term>
+        <keywords>
+          <keyword>
+            <column>first</column>
+            <relation>=</relation>
+            <value>1</value>
+          </keyword>
+          <keyword>
+            <column>rows</column>
+            <relation>=</relation>
+            <value>-1</value>
+          </keyword>
+          <keyword>
+            <column>sort</column>
+            <relation>=</relation>
+            <value>name</value>
+          </keyword>
+        </keywords>
+      </filters>
+      <sort>
+        <field>name
+          <order>ascending</order>
+        </field>
+      </sort>
+      <results max="-1" start="1"></results>
+      <result_count>58
+        <filtered>58</filtered>
+        <page>58</page>
+      </result_count>
+    </get_results_response>
